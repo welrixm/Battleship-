@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3Hj4gNr7Wl0iujjDijXaTdihTzLuydJsuRVou1Nbf+UkVdvYOPhfEyYyL+N1OPNysUwOPf2c0W5dIhjXuZYjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\232023\\Desktop\\BattleShip (1)\\BattleShip\\BattleShip\\BattleShip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\232023\\.nuget\\packages\\microsoft.netcore.jit\\1.0.2\\microsoft.netcore.jit.1.0.2.nupkg.sha512",
+    "C:\\Users\\232023\\.nuget\\packages\\microsoft.netcore.portable.compatibility\\1.0.2\\microsoft.netcore.portable.compatibility.1.0.2.nupkg.sha512",
+    "C:\\Users\\232023\\.nuget\\packages\\microsoft.netcore.runtime.coreclr\\1.0.2\\microsoft.netcore.runtime.coreclr.1.0.2.nupkg.sha512",
+    "C:\\Users\\232023\\.nuget\\packages\\microsoft.netcore.windows.apisets\\1.0.1\\microsoft.netcore.windows.apisets.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
